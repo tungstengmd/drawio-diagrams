@@ -33,9 +33,6 @@
         <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-8" value="tries ← tries + 1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-10" value="tries ← 0" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rbfPJ4H-Tg4PSfFwz5Jx-13" target="rbfPJ4H-Tg4PSfFwz5Jx-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -54,6 +51,15 @@
               <mxPoint x="520" y="360" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-18" value="tries ← 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="rbfPJ4H-Tg4PSfFwz5Jx-19" target="rbfPJ4H-Tg4PSfFwz5Jx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rbfPJ4H-Tg4PSfFwz5Jx-19" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
